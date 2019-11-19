@@ -1,5 +1,7 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
 
+**DISCLAIMER: YOU'RE NOTHING BUT AN A-HOLE IF YOU SELL EFI FOLDER (CONFIG) THAT'S ALREADY AVAILABLE FOR FREE OF COST. DON'T DO THAT.**
+
 # T530 Hackintosh Mojave Clover & Config.
 
 **Fork or star, it's your call.** 
