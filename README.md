@@ -1,3 +1,5 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil)
+
 # T530 Hackintosh Mojave Clover & Config.
 
 **Fork or star, it's your call.** 
