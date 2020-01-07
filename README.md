@@ -5,15 +5,15 @@
 
 **Update: The repo contains files for both Mojave and Catalina. The guide in the readme.md is only applicabe to Catalina. The guide for Mojave is available [on my website]( https://mighil.com/thinkpad-t530-hackintosh).**
 
-# T530 Hackintosh Catalina Clover & Config.
+# Lenovo ThinkPad T530 Hackintosh Config for Catalina.
 
 **Fork or star, it's your call.** 
 
-Grab the EFI Folder (Clover), plist, and BOOT required to install/run Thinkpad T530. Hackintosh Catalina.
+The repo contains EFI Folder (Clover files, config.plist, and BOOT) required to install/run Thinkpad T530. Hackintosh Catalina/Mojave.
 
 ![ThinkPad T530 Hackintosh](https://mighil.com/wp-content/uploads/2020/01/thinkpad-t530-hackintosh-catalina.jpg)
 
-## My T530
+## My ThinkPad T530
 
 Specs: i7 3740QM, 16GB Memory, 256GB SSD + 256GB SSD + 1TB HDD, NVIDIA NVS 5400M (N/A for Hackintosh)
 
