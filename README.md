@@ -2,6 +2,8 @@
 
 **DISCLAIMER: YOU'RE NOTHING BUT AN A-HOLE IF YOU SELL EFI FOLDER (CONFIG) THAT'S ALREADY AVAILABLE FOR FREE OF COST. DON'T DO THAT.**
 
+**Update: Catalina testing went smooth. I'll update the EFI folder in a while**
+
 # T530 Hackintosh Mojave Clover & Config.
 
 **Fork or star, it's your call.** 
