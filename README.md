@@ -3,7 +3,7 @@
 
 **DISCLAIMER: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
-**Update: The repo contains files for both Mojave and Catalina. The guide is only applicabe to Catalina. Well, you could adapt the same for Mojave also.**
+**Update: The repo contains files for both Mojave and Catalina. The guide in the readme.md is only applicabe to Catalina. The guide for Mojave is available [on my website]( https://mighil.com/thinkpad-t530-hackintosh).**
 
 # T530 Hackintosh Catalina Clover & Config.
 
