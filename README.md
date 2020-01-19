@@ -46,12 +46,25 @@ Go to BIOS Settings → Startup, disable CSM support.
 
 ![ThinkPad T530 Hackintosh BIOS Settings](https://camo.githubusercontent.com/194409231f53350510cac72c24f4b6c144ca28d2/68747470733a2f2f6d696768696c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f78323330742d62696f732d63736d2d6e6f2e6a7067)
 
-## What Doesn’t Work?
+## WiFi
 
-- Inbuilt WiFi, you can hack BIOS/install a Mac-compatible WiFi card. I highly recommend an external device like Comfast CF-811AC for the time being.
-- MiniDP. 
+Inbuilt intel-WiFi adapter won't work out of the box.
+
+Atheros AR5B95, Lenovo part number 20002357 is a macOS supported/Lenovo-whitelisted card available for T530, X230 etc. You should add IO80211Family.kext from [this repo](https://github.com/mighildotcom/X230-Hackintosh/tree/master/10.15.2/EFI/CLOVER/kexts/Other) to Kexts/Other after installing that card.
+
+Alternativly, you can flash the BIOS and remove the whitelist if you plan to use Broadcom WLAN cards.
+
+Stick with a nano-USB WiFi adapter (something cheap based on Realtek) if you don't want to alter your hardware.
+
+Refer to [Chris1111's repo](https://github.com/chris1111/Wireless-USB-Adapter-Clover) for package installer and Kexts if you own a Realtek 802.11n or 802.11ac USB adapter.
+
+I added Realtek WLAN kexts (RtWlanU.kext & RtWlanU1827.kext) to use with my Comfast USB Wi-Fi adapter. You can safely remove it.
+
+## What Else Doesn’t Work? 
+
+- MiniDP 
 - Fingerprint reader 
-- Card reader.
+- Card reader
 
 ## How to create a bootable macOS Catalina USB install drive? (on MacOS)
 
