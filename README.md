@@ -2,7 +2,7 @@
 
 **DISCLAIMER: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
-**Update: The repo contains files for both Mojave and Catalina. The guide in the readme.md is only applicabe to Catalina. The guide for Mojave is available [on my website]( https://mighil.com/thinkpad-t530-hackintosh).**
+**Update: The repo contains files for both Mojave and Catalina. The guide in the readme.md is only applicabe to Catalina. The guide for Mojave is available [on my website]( https://m1q.net/thinkpad-t530-hackintosh).**
 
 # Lenovo ThinkPad T530 Hackintosh Config for Catalina.
 
@@ -10,7 +10,7 @@
 
 The repo contains EFI Folder (Clover files, config.plist, and BOOT) required to install/run Thinkpad T530. Hackintosh Catalina/Mojave.
 
-![ThinkPad T530 Hackintosh](https://mighil.com/wp-content/uploads/2020/01/thinkpad-t530-hackintosh-catalina.jpg)
+![ThinkPad T530 Hackintosh](https://m1q.net/wp-content/uploads/2020/01/thinkpad-t530-hackintosh-catalina.jpg)
 
 ## My ThinkPad T530
 
