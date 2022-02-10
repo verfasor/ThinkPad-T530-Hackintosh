@@ -2,7 +2,7 @@
 
 **DISCLAIMER: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
-**Update: The repo contains files for both Mojave and Catalina. The guide in the readme.md is only applicabe to Catalina. The guide for Mojave is available [on my website]( https://m1q.net/thinkpad-t530-hackintosh).**
+**Update: The repo contains files for both Mojave and Catalina. The guide in the readme.md is only applicabe to Catalina. The guide for Mojave is available [on my website]( https://jotzilla.net/thinkpad-t530-hackintosh).**
 
 # Lenovo ThinkPad T530 Hackintosh Config for Catalina.
 
